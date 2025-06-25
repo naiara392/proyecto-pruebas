@@ -38,7 +38,7 @@ Esta actividad ha sido muy útil para aprender a solucionar un problema tan com�
 
 "git checkout es la forma más segura y amable de restaurar archivos específicos.
 
-"git reset" es una herramienta muy potente pero muy destrucctiva, hay que tener mucho cuidado con su uso, y solo
+"git reset" es una herramienta muy potente pero muy destructiva, hay que tener mucho cuidado con su uso, y solo
 utilizarla cuando se está muy seguro ya que se perderá todo lo posterior al commit restaurado.
 
 Cuando se comete un error no hay que perder la calma ya que Git cuenta con múltiples herramientas para resolver la situación.
